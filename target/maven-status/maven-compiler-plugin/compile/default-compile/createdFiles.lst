@@ -1,1 +1,6 @@
+com/stocks/controller/StockController.class
 com/stocks/StocksAnalysisApplication.class
+com/stocks/model/Stock.class
+com/stocks/util/StockDataFetcher.class
+com/stocks/model/StockPrice.class
+com/stocks/service/StockService.class
